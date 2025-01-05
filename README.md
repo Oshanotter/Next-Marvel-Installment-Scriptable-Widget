@@ -19,7 +19,6 @@ It can also run as a widget on iPadOS and macOS if you have the Scriptable app f
 - Will display the next releasing MCU TV show or movie on a widget.
 - Will display all upcoming MCU projects if the widget is tapped.
 - Works with small, medium, and large widget sizes.
-- Has an offline mode.
 - Utilizes the Scriptable app and the TMDB API.
 
 ## Installation
